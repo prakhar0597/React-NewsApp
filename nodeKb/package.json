@@ -1,0 +1,18 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Homework",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Prakhar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "google-trends-api": "^4.9.0",
+    "node-fetch": "^2.6.0"
+  }
+}

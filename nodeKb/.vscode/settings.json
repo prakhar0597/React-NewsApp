@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/73c2134b-3222-4748-a519-c57b8a039d4f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/bold-rampart-node-1234",
+    "appService.deploySubpath": ""
+}

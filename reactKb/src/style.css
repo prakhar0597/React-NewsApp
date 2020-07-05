@@ -1,0 +1,93 @@
+.nav-bar {
+  background-image: linear-gradient(
+    to right,
+    rgb(26, 40, 71),
+    rgb(80, 109, 177)
+  );
+}
+
+.navbar-light .navbar-toggler-icon
+{
+  color:white !important;
+}
+.mycard {
+  height: 10% !important;
+}
+
+/* 
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width:100%;
+    height: 100%;
+    background: rgba(240, 216, 216, 0.6);
+  }
+  
+  .modal-main {
+    position:fixed;
+    background: white;
+    width: 80%;
+    height: auto;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+  }
+  
+  .display-block {
+    display: block;
+  }
+  
+  .display-none {
+    display: none;
+  } */
+
+.nav-item {
+  padding-right: 10% !important;
+}
+
+@media (min-width: 300px) and (max-width: 768px) {
+  .abc {
+    display: grid !important;
+    margin-left: 0% !important;
+    margin-top: 3% !important;
+  }
+  .navbar-nav {
+    margin-left: 0% !important;
+  }
+  .a {
+    margin-bottom: 4% !important;
+    margin-top: 2% !important;
+  }
+}
+
+/* .css-yk16xz-control {
+  width: 250px !important;
+}
+
+.css-2b097c-container {
+  width: 250px !important;
+} */
+a:hover {
+  color: white !important;
+}
+
+.Toastify__toast-body {
+  color: black !important;
+}
+
+.align_dateline {
+  text-align: center;
+}
+
+@media (min-width: 401px){
+  .keyword_bar{
+    width:250px;
+  }
+}
+@media (max-width: 401px){
+  .keyword_bar{
+    width:215px;
+  }
+}
+
